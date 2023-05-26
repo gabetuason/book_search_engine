@@ -28,9 +28,9 @@ Deployed Link: https://sheltered-island-79111.herokuapp.com/
 
 You can also git clone the repository: `git@github.com:gabetuason/myportfolio_react.git`
 
-![screenshot]()
+![screenshot](https://github.com/gabetuason/book_search_engine/blob/main/images/book_search1.JPG)
 
-![screenshot]()
+![screenshot](https://github.com/gabetuason/book_search_engine/blob/main/images/book_search2.JPG)
 
 ## License
 
