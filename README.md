@@ -24,9 +24,11 @@ To install dependencies run the console command line `npm i`. The `package.json`
 
 ## Usage
 
-Deployed Link: 
+Deployed Link: https://sheltered-island-79111.herokuapp.com/
 
 You can also git clone the repository: `git@github.com:gabetuason/myportfolio_react.git`
+
+![screenshot]()
 
 ![screenshot]()
 
